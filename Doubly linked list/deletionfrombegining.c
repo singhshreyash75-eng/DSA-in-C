@@ -1,3 +1,6 @@
+
+//Deleting a node from the begining in a doubly linked list...
+
 #include <stdio.h>
 #include <stdlib.h>
 
