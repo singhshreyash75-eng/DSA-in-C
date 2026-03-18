@@ -1,4 +1,4 @@
-//Creation of a singly linked list and inserting at begining...
+//Creation of a singly linked list and inserting at end ...
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -11,7 +11,7 @@ struct node{
 
 int main(){
 
-    struct node *head; // Declaring the 3 pointers to connect nodes toghether in a doubly linked list
+    struct node *head; // Declaring the 3 pointers to connect nodes toghether in a singly linked list
     struct node *second;
     struct node *third;
 
